@@ -1,5 +1,5 @@
-# RO3-Agroforestry
-SSRS RO3 - Agroforestry &amp; Social Forestry Research Group is a research group of IPB SSRS Association
+# RO3-Agriculture
+SSRS RO3 - Agriculture &amp; Agriculture Research Group is a research group of IPB SSRS Association
 
 ## Overview
 
